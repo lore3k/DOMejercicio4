@@ -1,0 +1,12 @@
+body{
+    background-color: #d04189;
+    background-image: linear-gradient(43deg, #dd7ad5 0%, #C850C0 46%, #FFCC70 100%);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+
+main{
+    flex-grow: 1;
+}
